@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentAPP</string>
+    <string name="class_over">目前已修畢學分數：</string>
+    <string name="class_ending">距離畢業門檻學分數之差距：</string>
+    <string name="content_description"> </string>
+    <string name="click">Click</string>
+    <string name="enter_credit">請輸入您已修畢的學分數</string>
+    <string name="confirm">confirm</string>
+</resources>

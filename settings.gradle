@@ -1,0 +1,2 @@
+rootProject.name='IntentAPP'
+include ':app'
