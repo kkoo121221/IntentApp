@@ -5,5 +5,5 @@
 ## 型別轉換紀錄 
     ◆ Integer.parseInt(<varible>.getText().toString())字串及數值間的型態轉換用於計算並顯示
     
-##### 
-    2020.06.22 update by timothy.
+###### 2020.06.22 update by timothy.
+    
